@@ -1,8 +1,5 @@
 var mainTitle = document.querySelector("#princ");
 
-mainTitle.addEventListener("mouseover", function(){
-
-    mainTitle.classlist.add("Teste");
-
-});
-
+document.addEventListener("DOMContentLoaded", function(event) {
+    console.log("DOM completamente carregado e analisado");
+  });
