@@ -10,7 +10,7 @@ html, body {
 }
 
 .bgComments{
-  background-color: #009e1a;
+  background-color: #ff0015;
 }
 
 .bgQuestions{
@@ -21,3 +21,10 @@ html, body {
   font-family: Poppins;
 }
 
+.bgCommentsBody{
+  background-color: #0051ff;
+}
+
+.boldComment{
+  font-weight: bold;
+}
