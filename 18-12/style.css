@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.bgHeader{
+  background-color: #3386FF;
+}
+
+.bgComments{
+  background-color: #009e1a;
+}
+
+.bgQuestions{
+  background-color: #00108a;
+}
+
+.cFont{
+  font-family: Poppins;
+}
+
